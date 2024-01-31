@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub?share=true)]([https://your-solution-url.com](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub?share=true))
-- Live Site URL: [[Add live site URL here](https://justine1285.github.io/Responsive-landing-page-using-flexbox/)]([https://your-live-site-url.com](https://justine1285.github.io/Responsive-landing-page-using-flexbox/))
+- Solution URL: [(https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub?share=true)]([https://your-solution-url.com](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub?share=true))
+- Live Site URL: [(https://justine1285.github.io/Responsive-landing-page-using-flexbox/)]([https://your-live-site-url.com](https://justine1285.github.io/Responsive-landing-page-using-flexbox/))
 
 
 ### Built with

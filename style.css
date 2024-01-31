@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 8%);
+    margin: 20px 0;
+}
+
+img {
+    width: 23%;
+    border-radius: 40px;
+}
+
+.main_container {
+    width: 30%;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 12%);
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.container_1 {
+    text-align: center;
+}
+
+.profile-text header {
+    font-size: 23px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    padding-top: 20px;
+}
+
+.profile-text p {
+    color: hsl(75, 94%, 57%);
+    font-weight: 500;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}
+
+span {
+    color: hsl(0, 0%, 50%);
+    font-weight: 700;
+}
+
+.container_2 {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    background-color:  hsl(0, 0%, 20%);
+    padding: 13px 0;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+button:active {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+
+button + button {
+    margin-top: 15px;
+}
+
+@media (max-width: 500px) {
+    .main_container {
+        width: 100%;
+    }
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+    padding-top: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+.attribution a { 
+    color: hsl(75, 94%, 57%); 
+}
